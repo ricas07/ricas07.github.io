@@ -1,0 +1,9 @@
+.work-block {
+  width: 100%;
+  display: inline-block;
+}
+@media(min-width:768px) {
+  .work-block {
+    width:50%;
+  }
+}
