@@ -13,8 +13,10 @@ class App extends Component {
       <MuiThemeProvider muiTheme={myTheme}>
         <div className="App">
           <AppBar />
-          <MyCard />
-          <Footer />
+          <div className="container">
+            <MyCard />
+            <Footer />
+          </div>
         </div>
       </MuiThemeProvider>
     );
