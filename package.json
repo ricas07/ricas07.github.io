@@ -2,7 +2,7 @@
   "name": "bio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ricas07.github.io/myapp",
+  "homepage": "https://ricas07.github.io/",
   "dependencies": {
     "eslint": "^3.19.0",
     "material-ui": "^0.18.1",
